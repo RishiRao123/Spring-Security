@@ -1,4 +1,4 @@
-package org.raoamigos.springsecurity;
+package org.raoamigos.springsecurity.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.web.csrf.CsrfToken;

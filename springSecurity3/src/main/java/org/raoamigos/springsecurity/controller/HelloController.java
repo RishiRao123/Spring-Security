@@ -1,4 +1,4 @@
-package org.raoamigos.springsecurity;
+package org.raoamigos.springsecurity.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
